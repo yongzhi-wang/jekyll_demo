@@ -16,8 +16,9 @@ title: 使用jekyll-cli快速写blog
 这是一个nodejs写的在命令行下使用jekyll的工具，可以帮助大家减少一些重复操作。
 
 安装过nodejs之后，可以用下面的命令来安装
-
-    $ npm install -g jekyll-cli
+```bash
+$ npm install -g jekyll-cli
+```
 安装完成后，使用jkl命令就行了。
 
 我最常用的就是新建日志，在jekyll的根目录，执行
